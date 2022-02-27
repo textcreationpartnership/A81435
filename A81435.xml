@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue betwixt three travellers, as accidentally they did meet on the high-way: Crucy Cringe, a papist, Accepted Weighall, a professor of the Church of England, and Factious Wrest-writ, a Brownist. Wherein the errours of the papists and the Brownists are discussed, and themselves reconciled to the Church of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81435</idno>
+            <idno type="STC">Wing D1358</idno>
+            <idno type="STC">Thomason E160_7</idno>
+            <idno type="STC">ESTC R23036</idno>
+            <idno type="EEBO-CITATION">99871897</idno>
+            <idno type="PROQUEST">99871897</idno>
+            <idno type="VID">156913</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81435)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156913)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E160[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue betwixt three travellers, as accidentally they did meet on the high-way: Crucy Cringe, a papist, Accepted Weighall, a professor of the Church of England, and Factious Wrest-writ, a Brownist. Wherein the errours of the papists and the Brownists are discussed, and themselves reconciled to the Church of England.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Church of England --  History, (17th century) --  Early works to 1800.</term>
+               <term>Brownists --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156913:1" rendition="simple:additions"/>
+            <p>A DIALOGUE BETWIXT THREE TRAVELLERS, as accidentally they did meet on the High-way:
+<list>
+                  <item>
+                     <hi>CR<g ref="char:V">Ʋ</g>CY CRINGE,</hi> a Papiſt,</item>
+                  <item>
+                     <hi>ACCEPTED WEIGH ALL,</hi> a Profeſ<g ref="char:EOLhyphen"/>ſour of the Church of <hi>England,</hi> and</item>
+                  <item>
+                     <hi>FACTIOVS WREST-WRIT,</hi> a Browniſt.</item>
+               </list>
+            </p>
+            <p>Wherein the errours of the Papiſts and the Browniſts are diſcuſſed, and themſelves recon<g ref="char:EOLhyphen"/>ciled to the Church of <hi>England.</hi>
+            </p>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:156913:2"/>
+            <pb n="1" facs="tcp:156913:2"/>
+            <head>A Dialogue Betwixt three Travellers, as accidentally they did meet on the High-way, <hi>Crucy Cringe,</hi> a Papiſt, <hi>Accepted Weighall,</hi> a Profeſſour of the Church of <hi>England,</hi> and <hi>Factious Wreſt-Writ,</hi> a Browniſt.</head>
+            <sp>
+               <speaker>Crucy.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Ell met, well met Maſter <hi>Wreſt-Writ,</hi> you are ſuch an eager man; Do you remember, Sir, the conference we had, when we laſt encountred, almoſt in this very place? Doe you ſtill purſue your errours with that wilfull heat?</p>
+            </sp>
+            <sp>
+               <speaker>Factious.</speaker>
+               <p>Out of my ſight thou Idolater; pro<g ref="char:EOLhyphen"/>phaneſſe hangs in a miſt about thee, that thou maiſt commit thy deeds of darkneſſe with the Whore of Babilon with more ſecureneſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Crucy.</speaker>
+               <p>Not ſo haſty Maſter <hi>Wreſt-Wright,</hi> a good cauſe ſhould be diſputed with good words, and con<g ref="char:EOLhyphen"/>firmed with reaſons, not with paſſions.</p>
+            </sp>
+            <sp>
+               <speaker>Factious.</speaker>
+               <p>Down <hi>Dagon,</hi> down, I hate thee <hi>Cringe;</hi>
+                  <pb n="2" facs="tcp:156913:3"/>I hate thee and thy late diſputed doctrine of the reall preſence in the Sacrament, worſe than the lawne Reeves of the Prelates, which are but meer rags of <hi>Rome,</hi> and fit onely for tinder for the Tinder-box of <hi>Tophet;</hi> but goe to M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter <hi>Cringe,</hi> becauſe ſociety is the injunction of nature; and good diſcourſe (they ſay) doth make a hor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e that trots ſeeme to amble, proceed in your laſt argument, and I promiſe you both ſilence and attention.</p>
+            </sp>
+            <sp>
+               <speaker>Crucy.</speaker>
+               <p>If you will be patient I will: The doctrine then of the reall preſence in the Euchariſt.</p>
+            </sp>
+            <sp>
+               <speaker>Factious.</speaker>
+               <p>The Euchariſt! I can forbeare the argu<g ref="char:EOLhyphen"/>ment no longer; there is no ſuch word to be read in all the Scripture.</p>
+            </sp>
+            <sp>
+               <speaker>Crucy.</speaker>
+               <p>Very frequently, Sir, in the Greek originall.</p>
+            </sp>
+            <sp>
+               <speaker>Factious.</speaker>
+               <p>Talk not to me of Greek, I will beleeve no Greek, it is a language that ſhall carry no autho<g ref="char:EOLhyphen"/>rity with me; I hope to ſee Greek and Latine too, ere it be long, in leſſe reputation than they are.</p>
+            </sp>
+            <sp>
+               <speaker>Crucy.</speaker>
+               <p>I doe not like this fury, E'en God be with you, and grant your zeale more knowledge, and your knowledge more humility.</p>
+            </sp>
+            <sp>
+               <speaker>Factious.</speaker>
+               <p>Nay but hark you Maſter <hi>Cringe,</hi> hark you one word,—look you here,—Maſter <hi>Accepted Weighall:</hi>—Come as wiſht for.</p>
+            </sp>
+            <sp>
+               <speaker>Accepted.</speaker>
+               <p>How have you done this long time? How doe you Maſter <hi>Crucy?</hi> Sir, I heartily ſalute you.</p>
+            </sp>
+            <sp>
+               <speaker>Crucy.</speaker>
+               <p>I returne your ſalutation with the like teſti<g ref="char:EOLhyphen"/>mony of good will, and true affect on: you intervene an happy Vmpire, we two were e'en a falling out, and a falling off too.</p>
+            </sp>
+            <sp>
+               <speaker>Factious.</speaker>
+               <p>Verily, Maſter <hi>Weighall,</hi> the words of truth being not in his lips, I was about to ſeparate, and to leave him to the fogs of his ſuperſtitious ignorance,
+<pb n="3" facs="tcp:156913:3"/>I muſt beſeech you, having ſo happily met with your bet<g ref="char:EOLhyphen"/>ter company, that we may abandon him.</p>
+            </sp>
+            <sp>
+               <speaker>Accept.</speaker>
+               <p>Why ſo Sir, Although I am a Profeſſour of true and Orthodox Religion, I am not of the ſeparation; I would be neither a <hi>Trojan,</hi> nor <hi>Tyrian;</hi> it fares with Religi<g ref="char:EOLhyphen"/>on as with Vertue, ſhe muſt preſerve her ſelfe entire be<g ref="char:EOLhyphen"/>twixt two extreames; and the ſafeſt way to truth is the middle way; I would be neither learnedly ſuperſtirious, nor obſtinately ignorant; but to the point which you were ſo hot in diſputation of.</p>
+            </sp>
+            <sp>
+               <speaker>Factious.</speaker>
+               <p>Sir, when laſt Maſter <hi>Cringe</hi> and I encountred, we held a controverſie concerning the reall preſence in the Sacrament, which Maſter <hi>Cringe</hi> beleeveth to be truly corporall, and in adoration bowes unto it.</p>
+            </sp>
+            <sp>
+               <speaker>Crucy.</speaker>
+               <p>Sir, I beleeve the Sacrament to be a greater my<g ref="char:EOLhyphen"/>ſtery then peradventure you conceive it, and not a meere Love-feaſt, as idly enough you are pleaſed to fancy it; I dare affirme, that the great worke of mans Redemption is no where more perfectly to be diſcovered, <hi>Nec tam prae<g ref="char:EOLhyphen"/>ſentes alibi cognoſcere Divos.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Factious.</speaker>
+               <p>Sir, you are in your Latine, I will have La<g ref="char:EOLhyphen"/>tine againe to anſwer you; I aſſure you I take it to be a Commemoration <hi>per fidem,</hi> onely in remembrance of our Saviours ſufferings, on whom we feed with the eye of faith.</p>
+            </sp>
+            <sp>
+               <speaker>Crucy.</speaker>
+               <p>That cannot be Maſter <hi>Wreſt-Writ,</hi> the words are poſitive and punctuall, <hi>This is my Body,</hi> and will admit of no other interpretation.</p>
+            </sp>
+            <sp>
+               <speaker>Factious.</speaker>
+               <p>The words that follow that text doe as plainly and punctually interpret the words precedent, <hi>Doe this in remembrance of me,</hi> which implies a direct abſence of the party; for what needs a remembrance, when the perſon is preſent? and in this I referre my ſelfe to Maſter <hi>Weigh<g ref="char:EOLhyphen"/>all.</hi> You affirmed beſides at our laſt meeting, that you did
+<pb n="4" facs="tcp:156913:4"/>feed in the Sacrament, upon the very body of Chriſt indeed.</p>
+            </sp>
+            <sp>
+               <speaker>Crucy.</speaker>
+               <p>I feed in the Sacrament on the very Body and Bloud of Chriſt, the elements of Bread and Wine, being tranſubſtantiated into his Body.</p>
+            </sp>
+            <sp>
+               <speaker>Factious.</speaker>
+               <p>This is moſt horrible impiety. How is this tranſubſtantiation? when is it begun? when is it finiſhed? anſwer me to that, Maſter <hi>Cringe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Crucy.</speaker>
+               <p>Immediately after the words of the conſe<g ref="char:EOLhyphen"/>cration.</p>
+            </sp>
+            <sp>
+               <speaker>Factious.</speaker>
+               <p>That cannot be, for the Metaphyſicks (as I have heard Schollers ſay) will not allow that the ſub<g ref="char:EOLhyphen"/>ſtance ſhould be altered, and the accidents remaine, that the Bread and Wine ſhould be converted into the very Body and Bloud of Chriſt; yet the colour and taſte of the Bread and Wine, which are their accidents, ſhould ſtill continue; neither will Divinity ever agree, that the Bread, which after conſecration, you ſay, is turned into the Bo<g ref="char:EOLhyphen"/>dy of Chriſt, ſhould ſuffer afterwards, corruption, and moulder away, as we ſee it doth.</p>
+            </sp>
+            <sp>
+               <speaker>Crucy.</speaker>
+               <p>We feed, I ſay, in the Sacrament on the very Body of Chriſt; but how? not as we feed on butchers meat bought in the ſhambles; but it being received with all reverence, and prepared humility after a divine and ſpi<g ref="char:EOLhyphen"/>rituall manner; and whatſoever you are pleaſed to ſay to to the contrary of us, beleeve me, there is no Catholick but is of the ſame opinion with me.</p>
+            </sp>
+            <sp>
+               <speaker>Factious.</speaker>
+               <p>That you doe to avoid ſome dangerous abſur<g ref="char:EOLhyphen"/>dities which would conſequently ariſe, ſhould you affirme, that in a fleſhly manner you eat in the Sacrament, the very fleſh of our Saviour; for then by the ſame argument ſhould the bleſſed Virgin, the mother of our Saviour, feed in the Sacrament, on the fleſh of her owne ſon; and then again, as often as in the time of Leat you receive the Communi<g ref="char:EOLhyphen"/>on,
+<pb n="5" facs="tcp:156913:4"/>you ſhould as often offend againſt the order of the Church, which doth command, that there ſhould in Lent no meat be eaten. Beſides, I underſtand how croſſe it is to reaſon and Philoſophy, that one Body ſhould at one and the ſame time move in ſeverall places.</p>
+            </sp>
+            <sp>
+               <speaker>Crucy.</speaker>
+               <p>Wonders are no wonders in wonderfull ſub<g ref="char:EOLhyphen"/>jects; I beleeve as the Church beleeveth, which doth in<g ref="char:EOLhyphen"/>forme me, that the Body of our Saviour is aſſiſted alwayes with the Divinity of our Saviour, and in this (as Maſter <hi>Wreſt-Writ</hi> did before) I referre my ſelfe to you Maſter <hi>Weighall.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Factious.</speaker>
+               <p>With all my heart, and if we ſhall continue in our journey and travell one way together; as in this, ſo in all controverted points betwixt us, I ſhall referre my ſelfe to your advice, Maſter <hi>Weighall.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Weighall.</speaker>
+               <p>I have not the deſire, nor yet the ability to goe thorow with ſo great a taske; but ſince it is the incli<g ref="char:EOLhyphen"/>nation of truth to communicate herſelfe, and through all my life I have made it my labour to enquire her out: I will, as neare as I can, firſt ſtate the queſtion aright, and then determine it. I beleeve we ought not to make our ap<g ref="char:EOLhyphen"/>proaches to the bleſſed Sacrament, with that overween<g ref="char:EOLhyphen"/>ing familiarity, as the ſawcy Browniſts; nor yet with ſuch a devout ſuperſtition as the abuſed Papiſts. That the Bread and wine in the Sacrament ſhould be tranſubſtantiated into the Body of Chriſt, cannot be admitted into the faith of any ſober man, without admitting with it many groſſe and grievous errours; for beſides that, it is but a meere invention of latter times, it is diametrically oppoſite to reaſon and nature; and God himſelfe, who oftentimes doth work above nature, doth never work againſt it. The elevation of the Hoſt by the Papiſts, ſavours of rank ido<g ref="char:EOLhyphen"/>latry; and the unmannerly ſitting of the Browniſts at the Communion, of irreverence. A decent and humble po<g ref="char:EOLhyphen"/>ſture
+<pb n="6" facs="tcp:156913:5"/>is moſt requiſite, eſpecially where God is pleaſed to communicate himſelfe to be really, and more peculiar<g ref="char:EOLhyphen"/>ly preſent. It is no lukewarmeneſſe, no neutrality to keepe ſafe between both your errours, but a grounded know<g ref="char:EOLhyphen"/>ledge and uprightneſſe: And I aſſure my ſelfe, if you would well weigh, with how much ſafety between both rockes the Truth doth paſſe by unſhip-wrackt, how ſecure and cleare ſhee is diſcovered, you would then make haſt to diſembogue, and make up unto her, who indeed is the Center of all ſublunary happineſſe, where alone we may finde peace with confidence. Errours in the Church reſult out of too unruly an heat, or too thick and too grave a Su<g ref="char:EOLhyphen"/>perſtition; either while we violently are lead by our own ungoverned humours, or while blinded with pompe, or with the ſhadowes of Antiquitie with a willing reverence wee are drawne unto Idolatry. Too much Ceremony and an affected pompe hath begot much Superſtition in the Sacrament amongſt the Papiſts. Too careleſſe a pre<g ref="char:EOLhyphen"/>ſumption hath begot much irreverence in the Sacrament amongſt the Anabaptiſts. The mean betwixt both is the fate and happy way attended with a perſevering care, not to decline, either to the one, or to the other, either to the right hand, or to the left.</p>
+            </sp>
+            <sp>
+               <speaker>Crucy.</speaker>
+               <p>I thanke you for your good counſels, and ſhall endeavour to embrace them.</p>
+            </sp>
+            <sp>
+               <speaker>Factious.</speaker>
+               <p>And I ſhall acknowledge my ſelfe to be much improved by you which doth embolden me to propound one queſtion more, and that is concerning the Originall, and the Inſtitution of Biſhops.</p>
+            </sp>
+            <sp>
+               <speaker>Accept.</speaker>
+               <p>I ſhould with much content lend care to your Conference, but ſee the Towne is neare, and within the full view of our eye; we will therefore for this day repoſe our minds as well as bodyes; and refer the diſcourſe untill the Morning.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156913:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
